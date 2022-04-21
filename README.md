@@ -1,5 +1,3 @@
-# Environment Version Manager
-
 A tool for developers using Windows that allows you to quickly switch between PHP versions.
 
 - [About](#about)
